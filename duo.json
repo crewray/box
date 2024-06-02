@@ -9,14 +9,25 @@
       "name": "🚀tvbox"
     },
     {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+      "name": "🚀yw"
+    },
+    {
       "name": "🌹小米砂锅",
       "url": "http://xhww.fun:63/小米/DEMO.json"
+    },
+    {
+      "url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt",
+      "name": "okjack"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.xyz",
+      "name": "王二小"
     },
     {
       "name": "🚒运输砂锅",
       "url": "https://cf.weixine.net/ysc.json"
     },
-
     {
       "name": "🌙胖鸭砂锅",
       "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json"
@@ -25,17 +36,14 @@
       "name": "🌼菜妮丝砂锅",
       "url": "https://tvbox.cainisi.cf"
     },
-
     {
       "name": "🌼云星砂锅",
       "url": "https://itvbox.cc/tvbox/云星日记/1.m3u8"
     },
-
     {
       "name": "🌼春风砂锅",
       "url": "https://369936.xyz/web119"
     },
-
     {
       "name": "🍀俊宇砂锅",
       "url": "http://home.jundie.top:81/top98.json"
@@ -80,7 +88,6 @@
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "🚀巧计线路"
     },
-
     {
       "url": "https://weixine.net/ysc.json",
       "name": "🚀运输车路"
@@ -124,6 +131,14 @@
     {
       "url": "http://dxawi.github.io/0/0.json",
       "name": "🚀dxawi线路"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+      "name": "🚀18线路"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/sjdy.txtn",
+      "name": "🚀hk伦线路"
     }
   ]
 }
